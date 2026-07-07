@@ -18,13 +18,13 @@
 
 ---
 
-```ansi
-[0;32m> whoami[0m
-[0;90malias[0m [0;36m:[0m [0;35m0xRoshiSh3ll[0m
-[0;90mrole [0m [0;36m:[0m [0;37mFachinformatiker Systemintegration[0m
-[0;90mfocus[0m [0;36m:[0m [0;37mNetzwerke [0;90m/[0;37m Firewalls [0;90m/[0;37m Virtualisierung[0m
-[0;90mbuild[0m [0;36m:[0m [0;33mFISI Quest[0m
-[0;90mmotto[0m [0;36m:[0m [0;32mship additive, break nothing[0m
+```yaml
+> whoami
+alias : 0xRoshiSh3ll
+role  : Fachinformatiker Systemintegration
+focus : Netzwerke / Firewalls / Virtualisierung
+build : FISI Quest
+motto : ship additive, break nothing
 ```
 
 ## Projekte
@@ -51,14 +51,14 @@ Stack: `JS` · `Firebase` · `Firestore` · `Netlify`
 
 ---
 
-```ansi
-[0;90m   .--.     [0;32mKernel panic -[0m
-[0;90m  |[0;36mo_o[0;90m |    [0;32mtoo much to learn.[0m
-[0;90m  |:_/ |    [0;32mReboot into:[0m
-[0;90m //   \ \   [0;33mFISI Quest.[0m
-[0;90m(|     | )[0m
-[0;90m/'\_   _/`\[0m
-[0;90m\___)=(___/[0m
+```
+   .--.     Kernel panic -
+  |o_o |    too much to learn.
+  |:_/ |    Reboot into:
+ //   \ \   FISI Quest.
+(|     | )
+/'\_   _/`\
+\___)=(___/
 ```
 
 <div align="center">
