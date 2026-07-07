@@ -46,15 +46,26 @@ Stack: `JS` · `Firebase` · `Firestore` · `Netlify`
 
 ---
 
+## Mascot
+
+<table>
+<tr>
+<td width="150"><img src="./master-roshi.gif" width="140" alt="Master Roshi" /></td>
+<td>
+
+```console
+> ./master_roshi.sh
+[OK] shell master initialized
+"Auch der staerkste Code
+ braucht Training."
+   - 0xRoshiSh3ll
 ```
-   .--.     Kernel panic -
-  |o_o |    too much to learn.
-  |:_/ |    Reboot into:
- //   \ \   FISI Quest.
-(|     | )
-/'\_   _/`\
-\___)=(___/
-```
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
