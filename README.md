@@ -1,0 +1,73 @@
+<div align="center">
+
+```
+  ___       ____           _     _     _     _____ _ _ 
+ / _ \__  _|  _ \ ___  ___| |__ (_)___| |__ |___ /| | |
+| | | \ \/ / |_) / _ \/ __| '_ \| / __| '_ \  |_ \| | |
+| |_| |>  <|  _ < (_) \__ \ | | | \__ \ | | |___) | | |
+ \___//_/\_\_| \_\___/|___/_| |_|_|___/_| |_|____/|_|_|
+```
+
+### `Fachinformatiker Systemintegration · Builder`
+
+[![Website](https://img.shields.io/badge/0xRoshiSh3ll.com-0d0208?style=for-the-badge&logo=firefox&logoColor=ff2d55&labelColor=0d0208)](https://0xRoshiSh3ll.com)
+[![FISI Quest](https://img.shields.io/badge/FISI--Quest.de-0d0208?style=for-the-badge&logo=gamejolt&logoColor=00e5ff&labelColor=0d0208)](https://fisi-quest.de)
+![Views](https://komarev.com/ghpvc/?username=0xRoshiSh3ll&style=for-the-badge&color=39ff14&label=VISITORS&labelColor=0d0208)
+
+</div>
+
+---
+
+```ansi
+[0;32m> whoami[0m
+[0;90malias[0m [0;36m:[0m [0;35m0xRoshiSh3ll[0m
+[0;90mrole [0m [0;36m:[0m [0;37mFachinformatiker Systemintegration[0m
+[0;90mfocus[0m [0;36m:[0m [0;37mNetzwerke [0;90m/[0;37m Firewalls [0;90m/[0;37m Virtualisierung[0m
+[0;90mbuild[0m [0;36m:[0m [0;33mFISI Quest[0m
+[0;90mmotto[0m [0;36m:[0m [0;32mship additive, break nothing[0m
+```
+
+## Projekte
+
+**[FISI Quest](https://fisi-quest.de)** - Gamified 8-bit Lernplattform fuer IHK-Pruefungen (AP1, AP2, WISO).
+`24 Lektionen` · `374 Fragen` · `Subnet-Trainer` · `SQL-Terminal` · `Pruefungssimulationen`
+Stack: `JS` · `Firebase` · `Firestore` · `Netlify`
+
+**[0xRoshiSh3ll.com](https://0xRoshiSh3ll.com)** - Hacker-Identity & persoenliche Seite.
+
+## Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-0d0208?style=flat-square&logo=html5&logoColor=ff2d55&labelColor=0d0208)
+![CSS3](https://img.shields.io/badge/CSS3-0d0208?style=flat-square&logo=css3&logoColor=00e5ff&labelColor=0d0208)
+![JavaScript](https://img.shields.io/badge/JS-0d0208?style=flat-square&logo=javascript&logoColor=39ff14&labelColor=0d0208)
+![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=ff2d55&labelColor=0d0208)
+![Firebase](https://img.shields.io/badge/Firebase-0d0208?style=flat-square&logo=firebase&logoColor=00e5ff&labelColor=0d0208)
+![Netlify](https://img.shields.io/badge/Netlify-0d0208?style=flat-square&logo=netlify&logoColor=39ff14&labelColor=0d0208)
+![Linux](https://img.shields.io/badge/Linux-0d0208?style=flat-square&logo=linux&logoColor=ff2d55&labelColor=0d0208)
+
+</div>
+
+---
+
+```ansi
+[0;90m   .--.     [0;32mKernel panic -[0m
+[0;90m  |[0;36mo_o[0;90m |    [0;32mtoo much to learn.[0m
+[0;90m  |:_/ |    [0;32mReboot into:[0m
+[0;90m //   \ \   [0;33mFISI Quest.[0m
+[0;90m(|     | )[0m
+[0;90m/'\_   _/`\[0m
+[0;90m\___)=(___/[0m
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=0xRoshiSh3ll&show_icons=true&theme=chartreuse-dark&title_color=39ff14&icon_color=00e5ff&text_color=ffffff&bg_color=0d0208&hide_border=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xRoshiSh3ll&theme=chartreuse-dark&ring=39ff14&fire=ff2d55&currStreakLabel=00e5ff&background=0d0208&hide_border=true" height="160" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xRoshiSh3ll&layout=compact&theme=chartreuse-dark&title_color=39ff14&text_color=ffffff&bg_color=0d0208&hide_border=true)
+
+`> exit 0`
+
+</div>
