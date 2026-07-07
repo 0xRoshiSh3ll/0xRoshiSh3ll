@@ -58,10 +58,13 @@ Stack: `JS` · `Firebase` · `Firestore` · `Netlify`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xRoshiSh3ll&show_icons=true&theme=chartreuse-dark&title_color=39ff14&icon_color=00e5ff&text_color=ffffff&bg_color=0d0208&hide_border=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xRoshiSh3ll&theme=chartreuse-dark&ring=39ff14&fire=ff2d55&currStreakLabel=00e5ff&background=0d0208&hide_border=true" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xRoshiSh3ll&theme=github_dark" width="100%" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xRoshiSh3ll&layout=compact&theme=chartreuse-dark&title_color=39ff14&text_color=ffffff&bg_color=0d0208&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xRoshiSh3ll&theme=github_dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xRoshiSh3ll&theme=github_dark" height="180" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xRoshiSh3ll&theme=github_dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xRoshiSh3ll&theme=github_dark&utcOffset=2" height="180" />
 
 `> exit 0`
 
