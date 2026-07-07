@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 60" width="640" height="60">
+  <style>
+    .base { font-family: 'Courier New', monospace; font-size: 22px; font-weight: bold; letter-spacing: 2px; text-anchor: middle; }
+    .r { fill: #ff2d55; opacity: .9; animation: gr 1s steps(2,end) infinite; }
+    .c { fill: #00e5ff; opacity: .9; animation: gc 1.15s steps(2,end) infinite; }
+    .w { fill: #eafff0; }
+    .bar1 { fill: #00e5ff; opacity: 0; animation: b1 3s linear infinite; }
+    .bar2 { fill: #ff2d55; opacity: 0; animation: b2 2.4s linear infinite; }
+    @keyframes gr { 0%{transform:translateX(-3px)} 25%{transform:translateX(3px)} 50%{transform:translateX(-2px)} 75%{transform:translateX(2px)} 100%{transform:translateX(-3px)} }
+    @keyframes gc { 0%{transform:translateX(3px)} 25%{transform:translateX(-3px)} 50%{transform:translateX(2px)} 75%{transform:translateX(-2px)} 100%{transform:translateX(3px)} }
+    @keyframes b1 { 0%,60%,100%{opacity:0;transform:translateY(0)} 70%{opacity:.6;transform:translateY(22px)} }
+    @keyframes b2 { 0%,40%,100%{opacity:0;transform:translateY(0)} 20%{opacity:.5;transform:translateY(18px)} }
+  </style>
+  <rect width="640" height="60" rx="8" fill="#0d0208"/>
+  <g opacity="0.2">
+    <line x1="0" y1="8" x2="640" y2="8" stroke="#39ff14" stroke-width="1"/>
+    <line x1="0" y1="16" x2="640" y2="16" stroke="#39ff14" stroke-width="1"/>
+    <line x1="0" y1="24" x2="640" y2="24" stroke="#39ff14" stroke-width="1"/>
+    <line x1="0" y1="32" x2="640" y2="32" stroke="#39ff14" stroke-width="1"/>
+    <line x1="0" y1="40" x2="640" y2="40" stroke="#39ff14" stroke-width="1"/>
+    <line x1="0" y1="48" x2="640" y2="48" stroke="#39ff14" stroke-width="1"/>
+    <line x1="0" y1="56" x2="640" y2="56" stroke="#39ff14" stroke-width="1"/>
+  </g>
+  <text x="320" y="38" class="base r">// SYSTEM BREACH DETECTED //</text>
+  <text x="320" y="38" class="base c">// SYSTEM BREACH DETECTED //</text>
+  <text x="320" y="38" class="base w">// SYSTEM BREACH DETECTED //</text>
+  <rect class="bar1" x="0" y="15" width="640" height="3"/>
+  <rect class="bar2" x="0" y="30" width="640" height="2"/>
+  <rect x="1" y="1" width="638" height="58" rx="8" fill="none" stroke="#143d14" stroke-width="2"/>
+</svg>
