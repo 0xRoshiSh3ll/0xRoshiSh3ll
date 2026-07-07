@@ -1,14 +1,8 @@
 <div align="center">
 
-```
-  ___       ____           _     _     _     _____ _ _ 
- / _ \__  _|  _ \ ___  ___| |__ (_)___| |__ |___ /| | |
-| | | \ \/ / |_) / _ \/ __| '_ \| / __| '_ \  |_ \| | |
-| |_| |>  <|  _ < (_) \__ \ | | | \__ \ | | |___) | | |
- \___//_/\_\_| \_\___/|___/_| |_|_|___/_| |_|____/|_|_|
-```
+<img src="./glitch-banner.svg" width="640" alt="SYSTEM BREACH DETECTED" />
 
-### `Fachinformatiker Systemintegration · Builder`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1300&color=39FF14&center=true&vCenter=true&width=520&height=40&lines=%3E+ACCESS+GRANTED;%3E+Fachinformatiker+Systemintegration;%3E+Building+FISI+Quest...)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/0xRoshiSh3ll.com-0d0208?style=for-the-badge&logo=firefox&logoColor=ff2d55&labelColor=0d0208)](https://0xRoshiSh3ll.com)
 [![FISI Quest](https://img.shields.io/badge/FISI--Quest.de-0d0208?style=for-the-badge&logo=gamejolt&logoColor=00e5ff&labelColor=0d0208)](https://fisi-quest.de)
@@ -46,6 +40,7 @@ Stack: `JS` · `Firebase` · `Firestore` · `Netlify`
 ![Firebase](https://img.shields.io/badge/Firebase-0d0208?style=flat-square&logo=firebase&logoColor=00e5ff&labelColor=0d0208)
 ![Netlify](https://img.shields.io/badge/Netlify-0d0208?style=flat-square&logo=netlify&logoColor=39ff14&labelColor=0d0208)
 ![Linux](https://img.shields.io/badge/Linux-0d0208?style=flat-square&logo=linux&logoColor=ff2d55&labelColor=0d0208)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0d0208?style=flat-square&logo=kalilinux&logoColor=00e5ff&labelColor=0d0208)
 
 </div>
 
